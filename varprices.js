@@ -14,7 +14,7 @@ retail4.innerHTML = "S$100.00";
 
 // THE BELOW 4 ELEMENTS ARE FOR ORIGINAL PRICE //
 const retail5 = document.getElementById("retail5"); // 12 months //
-retail5.innerHTML = "S$100.00";
+retail5.innerHTML = "S$200.00";
 
 const retail6 = document.getElementById("retail6"); // 6 months //
 retail6.innerHTML = "S$100.00";
