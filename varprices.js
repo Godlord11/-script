@@ -1,6 +1,6 @@
 // THE BELOW 4 ELEMENTS ARE FOR LAZADA PRICE //
 const retail1 = document.getElementById("retail1"); // 12 months //
-retail1.innerHTML = "S$515.61";
+retail1.innerHTML = "S$200.61";
 
 const retail2 = document.getElementById("retail2"); // 6 months //
 retail2.innerHTML = "S$410.00";
@@ -28,7 +28,7 @@ retail8.innerHTML = "S$100.00";
 
 // THE BELOW 4 ELEMENTS ARE FOR SAVINGS PRICE //
 const retail9 = document.getElementById("retail9"); // 12 months //
-retail9.innerHTML = "S$100.00";
+retail9.innerHTML = "S$300.00";
 
 const retail10 = document.getElementById("retail10"); // 6 months //
 retail10.innerHTML = "S$100.00";
