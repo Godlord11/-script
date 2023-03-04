@@ -9,7 +9,7 @@ const retail3 = document.getElementById("retail3"); // 3 months //
 retail3.innerHTML = "S$201.00";
 
 const retail4 = document.getElementById("retail4"); // 1 month //
-retail4.innerHTML = "S$100.00";
+retail4.innerHTML = "S$110.00";
 
 
 // THE BELOW 4 ELEMENTS ARE FOR ORIGINAL PRICE //
@@ -17,7 +17,7 @@ const retail5 = document.getElementById("retail5"); // 12 months //
 retail5.innerHTML = "S$200.00";
 
 const retail6 = document.getElementById("retail6"); // 6 months //
-retail6.innerHTML = "S$100.00";
+retail6.innerHTML = "S$120.00";
 
 const retail7 = document.getElementById("retail7"); // 3 months //
 retail7.innerHTML = "S$100.00";
