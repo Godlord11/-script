@@ -37,4 +37,4 @@ const retail11 = document.getElementById("retail11"); // 3 months //
 retail11.innerHTML = "S$64.8";
 
 const retail12 = document.getElementById("retail12"); // 1 month //
-retail12.innerHTML = "S$0";
+retail12.innerHTML = "S$19.6";
