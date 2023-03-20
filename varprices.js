@@ -3,7 +3,7 @@ const retail1 = document.getElementById("retail1"); // 12 months //
 retail1.innerHTML = "S$551.90";
 
 const retail2 = document.getElementById("retail2"); // 6 months //
-retail2.innerHTML = "S$372.00";
+retail2.innerHTML = "S$354.00";
 
 const retail3 = document.getElementById("retail3"); // 3 months //
 retail3.innerHTML = "S$192.00";
@@ -31,7 +31,7 @@ const retail9 = document.getElementById("retail9"); // 12 months //
 retail9.innerHTML = "S$439.30";
 
 const retail10 = document.getElementById("retail10"); // 6 months //
-retail10.innerHTML = "S$123.60";
+retail10.innerHTML = "S$141.00";
 
 const retail11 = document.getElementById("retail11"); // 3 months //
 retail11.innerHTML = "S$55.80";
